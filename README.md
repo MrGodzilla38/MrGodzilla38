@@ -8,24 +8,9 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=algolia&hide_border=true" alt="Stats - Algolia" /></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats - Tokyo Night" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=gotham&hide_border=true" alt="Stats - Gotham" /></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=radical&hide_border=true" alt="Stats - Radical" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=dracula&hide_border=true" alt="Stats - Dracula" /></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=cobalt&hide_border=true" alt="Stats - Cobalt" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=merko&hide_border=true" alt="Stats - Merko" /></td>
-    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=red&hide_border=true" alt="Stats - Red" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
