@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghvc/?username=MrGodzilla38&color=blue&style=flat" alt="Profile Views" />
-</p>
 <h1 align="center">Hi, I'm MrGodzilla38 👋</h1>
 
 <p align="center">
