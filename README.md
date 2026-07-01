@@ -11,25 +11,22 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <!-- Streak - Hem light hem dark destekler -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGodzilla38&theme=github&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGodzilla38&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
       <br/>
-      <!-- Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=github&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=default&hide_border=true&border_radius=10" alt="GitHub Stats" />
     </td>
     <td valign="top">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGodzilla38&theme=github&hide_border=true&layout=pie" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGodzilla38&theme=default&hide_border=true&layout=pie&border_radius=10" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
-<!-- Snake Animation - Hem light hem dark -->
+<!-- Snake - Hem Light hem Dark için -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake.svg" alt="snake animation" />
+    <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake.svg" alt="🐍 Snake Animation" />
   </picture>
 </p>
 
