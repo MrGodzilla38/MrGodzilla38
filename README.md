@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm MrGodzilla38 👋</h1>
-
 <p align="center">
   A developer who codes whatever I need. I enjoy building small but useful projects.
 </p>
@@ -7,11 +6,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <table align="center">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGodzilla38&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MrGodzilla38&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
       <img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td valign="top">
@@ -26,7 +24,6 @@
 ---
 
 ### 🌐 Social Media
-
 <p align="center">
   <a href="https://www.instagram.com/mrgodzilla_tr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -35,5 +32,3 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
-
----
