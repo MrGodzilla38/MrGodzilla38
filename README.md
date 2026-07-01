@@ -11,16 +11,26 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGodzilla38&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <!-- Streak - Hem light hem dark destekler -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGodzilla38&theme=github&hide_border=true" alt="GitHub Streak" />
+      <br/>
+      <!-- Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=github&hide_border=true" alt="GitHub Stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrGodzilla38&theme=tokyonight&hide_border=true&layout=pie" alt="Most Used Languages" />
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGodzilla38&theme=github&hide_border=true&layout=pie" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
+
+<!-- Snake Animation - Hem light hem dark -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake.svg" alt="snake animation" />
+  </picture>
 </p>
 
 ---
@@ -35,5 +45,3 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
 </p>
-
----
