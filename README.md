@@ -19,7 +19,9 @@
     </td>
   </tr>
 </table>
-<picture>![snake](https://github.com/MrGodzilla38/MrGodzilla38/blob/output/github-snake-dark.svg)</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake-dark.svg" alt="snake animation" />
+</p>
 ---
 
 ### 🌐 Social Media
