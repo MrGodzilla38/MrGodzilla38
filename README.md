@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=MrGodzilla38&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/MrGodzilla38/count.svg" alt="Profile Views" />
 </p>
 <h1 align="center">Hi, I'm MrGodzilla38 👋</h1>
 
