@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://profile-counter.glitch.me/MrGodzilla38/count.svg" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ftwprofilecounter.vercel.app%2Fapi%2Fcounter%3Fusername%3DMrGodzilla38" alt="Profile Views" />
 </p>
 <h1 align="center">Hi, I'm MrGodzilla38 👋</h1>
 
