@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrGodzilla38/MrGodzilla38/output/github-snake-dark.svg" alt="snake animation" />
 </p>
+
 ---
 
 ### 🌐 Social Media
