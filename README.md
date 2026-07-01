@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrGodzilla38&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+</p>
 <h1 align="center">Hi, I'm MrGodzilla38 👋</h1>
 
 <p align="center">
