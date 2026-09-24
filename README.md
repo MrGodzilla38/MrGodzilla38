@@ -11,10 +11,6 @@
     <td valign="top">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MrGodzilla38&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
       <img src="https://github-readme-stats-fast.vercel.app/api?username=MrGodzilla38&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrGodzilla38&theme=tokyonight&hide_border=true&layout=pie" alt="Most Used Languages" />
-    </td>
   </tr>
 </table>
 <p align="center">
